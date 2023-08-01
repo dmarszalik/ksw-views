@@ -137,3 +137,6 @@ ui-tests/.yarn/*
 ui-tests/.pnp.*
 
 Klasyfikacja-przykłady-i-ćwiczenia.ipynb
+
+# data files
+*.csv
